@@ -1,0 +1,475 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4487,
+      "max": [
+        0.1336669921875,
+        1.50390625,
+        0.146728515625
+      ],
+      "min": [
+        -0.1336669921875,
+        0.85009765625,
+        -0.08111572265625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 53844,
+      "componentType": 5126,
+      "count": 4487,
+      "max": [
+        1.0,
+        1.0,
+        0.9999741911888123
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999534487724304
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4487,
+      "max": [
+        0.9951171875,
+        0.9945030212402344
+      ],
+      "min": [
+        0.0036106109619140625,
+        0.0029296875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 15210,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107688,
+      "componentType": 5126,
+      "count": 7548,
+      "max": [
+        0.06768798828125,
+        1.8212890625,
+        0.1768798828125
+      ],
+      "min": [
+        -0.06768798828125,
+        1.4736328125,
+        -0.169921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 198264,
+      "componentType": 5126,
+      "count": 7548,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999573826789856
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35896,
+      "componentType": 5126,
+      "count": 7548,
+      "max": [
+        0.9970703125,
+        0.9965744018554688
+      ],
+      "min": [
+        0.0034580230712890625,
+        0.0029296875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60840,
+      "componentType": 5125,
+      "count": 23184,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 288840,
+      "componentType": 5126,
+      "count": 17060,
+      "max": [
+        0.94921875,
+        1.4921875,
+        0.12060546875
+      ],
+      "min": [
+        -0.94921875,
+        -0.002262115478515625,
+        -0.11602783203125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 493560,
+      "componentType": 5126,
+      "count": 17060,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999996423721313
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96280,
+      "componentType": 5126,
+      "count": 17060,
+      "max": [
+        0.99755859375,
+        0.9978466033935547
+      ],
+      "min": [
+        0.0011882781982421875,
+        0.00244140625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 153576,
+      "componentType": 5125,
+      "count": 56406,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Howzer (https://sketchfab.com/eierkopf1010)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/b1-battle-droid-32d27afbed954f3a94720d0f805ac928",
+      "title": "B1 Battle Droid"
+    },
+    "generator": "Sketchfab-14.70.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 379200,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 232760,
+      "byteOffset": 379200,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 698280,
+      "byteOffset": 611960,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1310240,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Body_baseColor.png"
+    },
+    {
+      "uri": "textures/Helmet_baseColor.png"
+    },
+    {
+      "uri": "textures/limps_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Body",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7890282251857588
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Helmet",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7890282251857588
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "limps",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7897188439415027
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "M_D_Assault_Preq_01_Torso_001_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "M_D_Assault_Preq_01_Head_Helmet_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "M_D_Assault_Preq_01_Limbs_limps_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "d67a1dfb665740318f949c9dd75b070b.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        132.3310089111328,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        132.33067314956696,
+        -0.2842294458883256,
+        0.0,
+        0.0,
+        0.2842294458883256,
+        132.33067314956696,
+        0.0,
+        1.171983967651613e-06,
+        1.0758623147921753e-06,
+        -1.1127985999337398e-06,
+        1.0
+      ],
+      "name": "M_D_Assault_Preq_01_Torso_001"
+    },
+    {
+      "mesh": 0,
+      "name": "M_D_Assault_Preq_01_Torso_001_Body_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        132.3310089111328,
+        7.243564045692347e-46,
+        -2.5680399016294965e-27,
+        0.0,
+        -5.515809509714973e-30,
+        132.3306731495008,
+        -0.28422947669896104,
+        0.0,
+        2.5680333857775013e-27,
+        0.28422947669896104,
+        132.3306731495008,
+        0.0,
+        -1.567279639402841e-07,
+        1.595259050191089e-06,
+        -3.1551285246678162e-06,
+        1.0
+      ],
+      "name": "M_D_Assault_Preq_01_Head"
+    },
+    {
+      "mesh": 1,
+      "name": "M_D_Assault_Preq_01_Head_Helmet_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        132.33099365234375,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        132.3306731495008,
+        -0.28422947669896104,
+        0.0,
+        0.0,
+        0.28422947669896104,
+        132.3306731495008,
+        0.0,
+        1.080514721252257e-06,
+        -1.942645894814632e-06,
+        -6.711132982673007e-07,
+        1.0
+      ],
+      "name": "M_D_Assault_Preq_01_Limbs"
+    },
+    {
+      "mesh": 2,
+      "name": "M_D_Assault_Preq_01_Limbs_limps_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

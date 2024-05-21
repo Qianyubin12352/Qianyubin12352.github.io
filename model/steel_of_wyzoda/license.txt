@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steel Of WyZoda
+* source:	https://sketchfab.com/3d-models/steel-of-wyzoda-f7323ac511ad496bbe2d8e5e5ad00095
+* author:	Yudha Mfr (https://sketchfab.com/yudhamfr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steel Of WyZoda" (https://sketchfab.com/3d-models/steel-of-wyzoda-f7323ac511ad496bbe2d8e5e5ad00095) by Yudha Mfr (https://sketchfab.com/yudhamfr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

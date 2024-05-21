@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beshr - BSC241 - lowpoly remake
+* source:	https://sketchfab.com/3d-models/beshr-bsc241-lowpoly-remake-8d694f6efbd74b869d4dbd76391afea2
+* author:	RaynaudL (https://sketchfab.com/fts_ltx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beshr - BSC241 - lowpoly remake" (https://sketchfab.com/3d-models/beshr-bsc241-lowpoly-remake-8d694f6efbd74b869d4dbd76391afea2) by RaynaudL (https://sketchfab.com/fts_ltx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
